@@ -14,6 +14,7 @@
 		3C8BA2252AE911F50030C9D3 /* SplashScreen_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C8BA2242AE911F50030C9D3 /* SplashScreen_SwiftUITests.swift */; };
 		3C8BA22F2AE911F50030C9D3 /* SplashScreen_SwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C8BA22E2AE911F50030C9D3 /* SplashScreen_SwiftUIUITests.swift */; };
 		3C8BA2312AE911F50030C9D3 /* SplashScreen_SwiftUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C8BA2302AE911F50030C9D3 /* SplashScreen_SwiftUIUITestsLaunchTests.swift */; };
+		3C9CE2AD2AE94ED300B40BD6 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C9CE2AC2AE94ED300B40BD6 /* LoginView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		3C8BA22A2AE911F50030C9D3 /* SplashScreen-SwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SplashScreen-SwiftUIUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C8BA22E2AE911F50030C9D3 /* SplashScreen_SwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen_SwiftUIUITests.swift; sourceTree = "<group>"; };
 		3C8BA2302AE911F50030C9D3 /* SplashScreen_SwiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen_SwiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3C9CE2AC2AE94ED300B40BD6 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				3C8BA2132AE911EF0030C9D3 /* SplashScreen_SwiftUIApp.swift */,
 				3C8BA2152AE911EF0030C9D3 /* ContentView.swift */,
+				3C9CE2AC2AE94ED300B40BD6 /* LoginView.swift */,
 				3C8BA2172AE911F40030C9D3 /* Assets.xcassets */,
 				3C8BA2192AE911F40030C9D3 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3C8BA2162AE911EF0030C9D3 /* ContentView.swift in Sources */,
+				3C9CE2AD2AE94ED300B40BD6 /* LoginView.swift in Sources */,
 				3C8BA2142AE911EF0030C9D3 /* SplashScreen_SwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
